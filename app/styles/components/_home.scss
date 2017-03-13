@@ -1,0 +1,30 @@
+
+.home-back{
+
+    /*height: inherit;*/
+    // padding: 8% 5% 5% 3%;
+    /*top: 55px;*/
+
+    /*To support older browsers*/
+    height: 100%;
+    width: 100%;
+
+    /* Set the height to match that of the viewport. */
+    height: 100vh;
+
+    /* Set the width to match that of the viewport. */
+    width: 100vw;
+
+    background-repeat: no-repeat;
+    background-size: 100%;
+    //background-position: center center;
+}
+
+.home-text-pre{
+  font-family: 'Lobster', cursive;
+  line-height:600px;
+  text-align: center;
+  font-weight: bold;
+  color: #FABC07;
+  font-size: 5rem;
+}

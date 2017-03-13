@@ -1,0 +1,27 @@
+
+.picture-pro{
+
+    /*height: inherit;*/
+    // padding: 8% 5% 5% 3%;
+    /*top: 55px;*/
+
+    /*To support older browsers*/
+    height: 50%;
+    width: 50%;
+
+    /* Set the height to match that of the viewport. */
+    height: 50vh;
+
+    /* Set the width to match that of the viewport. */
+    width: 50vw;
+
+    background-repeat: no-repeat;
+    background-size: 100%;
+    //background-position: center center;
+}
+
+.text-pro {
+  text-align: left;
+  font-size: 2rem;
+  font-family: 'Play', sans-serif;
+}
